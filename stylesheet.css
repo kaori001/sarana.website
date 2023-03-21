@@ -138,6 +138,9 @@ nav li {
   display: flex;
   justify-content: space-between;
 }
+#news .date-area {
+  margin-bottom: 16px;
+}
 #news ul li {
   width: calc(100%/3);
   border-right: solid 1px #000;
@@ -174,9 +177,6 @@ nav li {
     border-right: none;
     padding: 10px 0;
     margin-bottom: 20px;
-  }
-  #news .date-area {
-    margin-bottom: 16px;
   }
 }
 
